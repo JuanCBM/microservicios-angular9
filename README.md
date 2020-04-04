@@ -1,2 +1,9 @@
-# microservicios-angular9
-Proyecto con microservicios Spring Cloud y Angular 9
+# Microservicios-angular9
+
+### Herramientas
+* Java 1.13
+* Spring Tools Suite 4
+* Lombok
+* Postman
+* MariaDB y PostgreSQL
+* Mongo DB
