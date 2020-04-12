@@ -44,6 +44,7 @@ public class AlumnoController {
 		return ResponseEntity.ok().body(o.get());
 	}
 
+	// Eliminar
 	@DeleteMapping("/{id}")
 	public ResponseEntity<?> eliminar(@PathVariable Long id) {
 		alumnoService.deleteById(id);
